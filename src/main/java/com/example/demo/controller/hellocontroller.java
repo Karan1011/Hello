@@ -11,6 +11,6 @@ public class hellocontroller {
 
     @GetMapping(value="hello")
     public String HelloWord(){
-        return "Hello Program";
+        return "Hello Program Testing";
     }
 }
